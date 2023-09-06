@@ -1,0 +1,26 @@
+.container{
+    background-color: black;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+
+}
+
+p{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+button{
+    margin-left: 30%;
+    height: 70px;
+    margin-top: 40px;
+    background-color: white;
+    color: black;
+}
